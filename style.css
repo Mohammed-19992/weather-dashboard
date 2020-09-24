@@ -1,0 +1,83 @@
+* { padding: 0; margin: 0; }
+
+html, body, .row, .container-fluid {
+    height: 100%;
+}
+
+#nav {
+    text-align: center;
+    background-color: #283747;
+    color: white;
+    padding: 20px;
+    font-style: bold;
+}
+
+.jumbotron {
+    line-height: 30px;
+    background-color: white;
+    border: 1px solid lightgrey;
+    margin-top: 24px;
+    padding-top: 20px;
+    color: black;
+}
+
+#search{
+    background-color: #5F9EA0;
+    height: 100% ;
+}
+
+.currentCity{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.card-deck .card{
+    background-color: grey;
+    color:white;
+    padding: 12px;
+}
+
+.cityButtons{
+    background-color:grey;
+    border: 1px solid black;
+    text-align: left;
+    color: black;
+    padding: 10px;
+    font-style:italic;
+}
+
+#history{
+   display: flex;
+}
+
+#current-city-input{
+    position: relative;
+    left: -15px;
+}
+
+footer {
+    background-color:black;
+  }
+
+  #h5 {
+    color: white;
+    text-align: center;
+  }
+
+  .normal{
+      color: black;
+    background-color: yellow;
+    padding: 10px;
+}
+
+.mild{
+    color: black;
+    background-color: orange;
+    padding: 10px;
+}
+
+.hot{
+    color: black;
+    background-color: #DC3545;
+    padding: 8px;
+}
