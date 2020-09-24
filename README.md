@@ -27,8 +27,7 @@ jQuery was used in creating this app in addition to the javascript.
 You are required to submit the following for review:
 
 * The URL of the deployed application.
-https://mohammed-19992.github.io/weather-checker/
-
+https://mohammed-19992.github.io/weather-dashboard/
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-https://github.com/Mohammed-19992/weather-checker
+https://github.com/Mohammed-19992/weather-dashboard
